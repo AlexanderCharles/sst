@@ -16,4 +16,5 @@ Features:
 Building
 --------
 Requires xclip, and dev libs for xlib and UUID.
+
 `make`, followed by `make install` to install.
