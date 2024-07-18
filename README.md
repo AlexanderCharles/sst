@@ -18,3 +18,15 @@ Building
 Requires xclip, and dev libs for xlib and UUID.
 
 `make`, followed by `make install` to install.
+
+Portfolio and Demo
+------------------
+
+This was originally made as part of a code portfolio but it has turned into a tool which I have used daily for months at this point. When installed, it can be ran through the command line, or bind it to a key (through DWM in my case).
+
+![](demo.jpg)
+
+
+Problems
+--------
+On some rare occasions my browser will change the permissions to /tmp/ and prevent screenshots from being saved. This is rare enough to where I do not care, but because of this you may want to change the screenshot save location within the config.h file.
