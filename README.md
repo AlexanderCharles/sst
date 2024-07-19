@@ -22,7 +22,7 @@ Requires xclip, and dev libs for xlib and UUID.
 Portfolio and Demo
 ------------------
 
-This was originally made as part of a code portfolio but it has turned into a tool which I have used daily for months at this point. When installed, it can be ran through the command line, or bind it to a key (through DWM in my case).
+This was originally made as part of a code portfolio but it has turned into a tool which I have used daily for months at this point. The point of the project was to write a small tool, with clean code, that utilises a complex library.
 
 ![](demo.jpg)
 
